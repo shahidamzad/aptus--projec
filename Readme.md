@@ -1,4 +1,6 @@
 # GameRewards Smart Contract
+id = 0x4acd6ff9b799746bab1c3ae62e9449fbfc9c11c6842fc44e6afbb6467f0a1d30
+ss=![WhatsApp Image 2024-09-26 at 15 19 16_1ba67ab6](https://github.com/user-attachments/assets/0ed7db59-31e9-4291-a120-14db15e4737c)
 
 ## Vision
 
